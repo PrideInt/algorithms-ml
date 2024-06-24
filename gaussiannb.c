@@ -42,7 +42,7 @@ struct splitword *splitter(char *str) {
         b[j] = str[i];
         j++;
     }
-    printf("B: %s\n", b);
+    // printf("B: %s\n", b);
     split->word = a;
     split->next = malloc(sizeof(struct splitword));
     split->next->word = b;
@@ -56,8 +56,8 @@ float posterior(struct type *types, char *A, char *B) {
     float p;
 
     struct splitword *split = splitter(A);
-    printf("A: %s\n", split->word);
-    printf("B: %s\n", split->next->word);
+    // printf("A: %s\n", split->word);
+    // printf("B: %s\n", split->next->word);
 
     if (strcmp(B, "spam") == 0) {
         p = 0.2;
