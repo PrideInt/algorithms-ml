@@ -13,15 +13,15 @@ certain algorithms in C might prove fruitful. Or just plain torturous.
 ### Classification
 
 - Naive Bayes
- - Gaussian
- - Categorical
+   - Gaussian
+   - Categorical
 - Logistic Regression
 - Support Vector Machines 
- - Linear
- - QCQP (Quadratically Constrained Quadratic Program)
+   - Linear
+   - QCQP (Quadratically Constrained Quadratic Program)
 - Decision Trees
- - Categorical
- - Regression
+   - Categorical
+   - Regression
 - K-Nearest Neighbors
 
 ### Clustering
