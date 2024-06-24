@@ -1,12 +1,9 @@
 # Machine Learning Algorithms Written in C
 
 Some machine learning algorithms to be written and implemented in C.
+Personal use, I wouldn't advise anyone to use this library professionally.
 
-> - by Pride
-
-> I realize that there's much I still don't know about machine learning. Disciplining myself
-in understanding the foundations in this field by forcing myself to write and implement
-certain algorithms in C might prove fruitful. Or just plain torturous.
+> by Pride
 
 ## Algorithms
 
